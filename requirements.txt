@@ -1,0 +1,4 @@
+tensorflow
+sign-language-translator
+sign-language-translator[mediapipe]
+numpy

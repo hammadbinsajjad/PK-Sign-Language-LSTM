@@ -1,0 +1,5 @@
+# pipenv files
+Pipfile
+
+# Checkpoints of model training
+model_checkpoints/
